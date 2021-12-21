@@ -119,6 +119,7 @@ public class CalculatorMain {
                 int var4 = 0;
                 int var5 = 0;
                 int var6 = 0;
+                int var7 = 0;
             }
         } while (eingMenu < 4 && eingMenu != 4);
     }
