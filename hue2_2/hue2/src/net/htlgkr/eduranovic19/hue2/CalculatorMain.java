@@ -113,6 +113,7 @@ public class CalculatorMain {
                 break;
             } else {
                 System.out.println("Geben Sie eine Zahl zwischen 1 und 4 ein! ");
+                int var = 0;
             }
         } while (eingMenu < 4 && eingMenu != 4);
     }
